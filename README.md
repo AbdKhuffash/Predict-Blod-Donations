@@ -102,7 +102,7 @@ Accuracy: The Artificial Neural Network (ANN) consistently shows the highest acc
 
 Precision, Recall, and F1-Score: Generally, ANN and SVC show better performance compared to Decision Tree and Naive Bayes. The precision, recall, and f1-score  tend to improve or remain more stable in ANN and SVC as the size of the test data increases.
 
-Impact of Test Size: Increasing the test size from 20% to 30% tends to result in a slight decrease in performance for DT and NB, particularly in precision and recall. However, SVC and ANN show an improvement or stability .
+Impact of Test Size: Increasing the test size from 20% to 30% tends to result in a slight decrease in performance for DT and NB, particularly in precision and recall. However, SVC and ANN show an improvement or stability.
 
 In conclusion, ANN emerges as the most robust model across different test sizes, showing the highest accuracy and balanced performance metrics. SVC also performs well, particularly in handling the minority class as the test size increases. Decision Tree and Naive Bayes show more sensitivity to changes in test size, particularly in their ability to correctly predict outcomes.
 
